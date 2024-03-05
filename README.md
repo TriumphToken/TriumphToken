@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @TriumphToken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TriumphToken/TriumphToken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...Defi&blockchain
+- 🌱 I’m currently under developing a fintech App
+- 💞️ I’m looking to collaborate with any cripto Developer pasionate of BEP20 or ERC20 Node
+- 📫 How to reach me....support@triumphcoin.io
